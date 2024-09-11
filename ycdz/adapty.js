@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/api\.adapty\.io\/api\/.+\/sdk\/(analytics\/profiles\/(.*?)\/|in-apps\/(apple\/receipt\/validate\/|purchase-containers\/.+)|events) url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/adapty.js
+^https:\/\/api\.adapty\.io\/api\/.+\/sdk\/(analytics\/profiles\/(.*?)\/|in-apps\/(apple\/receipt\/validate\/|purchase-containers\/.+)|events) url script-response-body https://raw.githubusercontent.com/SEMANTICx/Quantumult-X/main/ycdz/adapty.js
 
 [mitm] 
 
